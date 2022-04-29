@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PavelPospolit
-- 👀 I’m interested in Programming, Gaming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning React = backend
-- 📫 How to reach me ... contact pavel.pospolit@yahoo.de
 
 <!---
 PavelPospolit/PavelPospolit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
